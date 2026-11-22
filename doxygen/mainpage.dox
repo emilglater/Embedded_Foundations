@@ -1,0 +1,14 @@
+/* Copyright (c) 2025 Daniel Rossinsky (https://github.com/rtsworks) */
+/* SPDX-License-Identifier: MIT                                      */
+
+/**
+ * @mainpage Embedded Foundations
+ *
+ * This project includes modules relevant for software development for
+ * embedded systems.
+ *
+ * @section main_guides Guides
+ *
+ * - @subpage architecture
+ * - @subpage workflow
+ */
